@@ -37,5 +37,9 @@ public class Book {
     }
 
     public Book(String name, int bookID, String genres, double price) {
+        this.name = name;
+        this.bookID = bookID;
+        this.genres = genres;
+        this.price = price;
     }
 }

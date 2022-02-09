@@ -82,7 +82,8 @@ public class Main {
 
         ///Q9
         System.out.println("Q9");
-        Book book1 = new Book("gone with wind", 233, "novel", 2.33);
+        Book book1 = new Book("gone with the wind", 233, "novel", 2.33);
+        System.out.println("Name:" + book1.name + ". Book ID:" + book1.bookID + ". Genres:" + book1.genres + ". Price:" + book1.price);
 
         System.out.println("====================================================");
         ///Q10
