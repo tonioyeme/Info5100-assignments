@@ -1,0 +1,8 @@
+Instantiated: An interface cannot be instantiated. An abstract can be instantiated.
+Class: An interface's class can only use once inheritance. An abstract's class can use multiple interfaces.
+Data member: An interface can have its own data member. An abstract's data is static final.
+Methods: An interface can have private methods. An abstract's methods can not be private.
+Variables: An interface's variables can be private. An abstract's variables can not be private, must be public static final.
+Design pattern: An interface's design pattern is "is-a". An abstract's design pattern is "like-a".
+Implementation: An interface needs inheritance and extends. An abstract needs implements.
+
